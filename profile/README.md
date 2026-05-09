@@ -354,32 +354,7 @@ Everyone has something to teach. If you know how to do something — and you can
 
 ---
 
-## 🗺️ Roadmap
 
-### Phase 1 — Foundation
-- [ ] Finalize platform architecture and content schema
-- [ ] Define Verifier onboarding and vetting process
-- [ ] Seed the platform with 100 high-quality guides across 10 domains
-- [ ] Launch public alpha
-
-### Phase 2 — Community
-- [ ] Open contributor and Verifier applications
-- [ ] Implement contextual advertising engine
-- [ ] Reach 1,000 guides across all levels
-
-### Phase 3 — Scale
-- [ ] Multi-language support
-- [ ] Launch Auditor and dispute resolution system
-- [ ] Public API for third-party integrations
-- [ ] Reach 100,000 guides
-
-### Phase 4 — Singularity
-- [ ] Self-sustaining through contextual funding
-- [ ] Guides available for every major domain of human activity
-- [ ] Community-governed with no single point of control
-- [ ] The single source of all actionable knowledge
-
----
 
 ## 📜 Governance
 
